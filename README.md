@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/dnl-fm/gotrequests.com/master/gotrequests.webp?sanitize=true" alt="gotrequests logo" width="250" align="right" style="max-width: 40vw;">
 
-# gotrequests?
+# GotRequests?
 
 _A utility designed to assist developers in logging and evaluating incoming HTTP
 requests from various sources._
